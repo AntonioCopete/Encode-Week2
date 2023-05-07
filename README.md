@@ -14,4 +14,5 @@ At the beginning had some errors getting the provider using ethers.providers.Alc
 
 ### Error executing the contract giving rights to another address
 - Contract address: 0x2fC452d239aD27122e3297A8BCd09aEE1dCCd8EA
+
 ![image](https://user-images.githubusercontent.com/85640830/236706878-cb40a593-8745-42bb-a9ee-8b45ccb2663a.png)
